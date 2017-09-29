@@ -1,0 +1,11 @@
+{
+  "name": "endame",
+  "version": "1.0.0",
+  "description": "Node release package creator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "riccardo.treso@hotmail.com",
+  "license": "MIT"
+}
